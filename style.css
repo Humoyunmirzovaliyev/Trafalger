@@ -1,0 +1,219 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.rowheader {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+
+}
+.png {
+  display: flex;
+ align-items: center;
+}
+.titles {
+    display: flex;
+
+}
+ul li {
+    text-decoration: none;
+    display: flex;
+
+}
+ul a {
+    text-decoration-line: none;
+    color: gray;
+}
+ul {
+    display: flex;
+    gap: 20px;
+}
+.nextstep {
+    margin-top: 20px;
+}
+li:hover {
+    color: black;
+}
+a:hover {
+    color: black;
+}
+.like {
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    margin-top: 40px;
+}
+.xoroz{
+    color: gray;
+    text-align: center;
+    margin-top: 30px;
+}
+.tovuq {
+    color: gray;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.megabox {
+     display: flex;
+     gap: 60px;
+     flex-wrap: wrap;
+     justify-content: center;
+     margin: 0 150px;
+}
+.boxes {
+ display: flex;
+ flex-direction: column;
+ padding-left:  20px;
+ padding-right: 70px;
+ gap: 4px;
+ padding-top: 60px;
+ width: 300px;
+ height: 300px;
+ background-color: #E7E7E7;
+ flex-wrap: wrap;
+
+}
+.minilogo{
+    width: 93px;
+    height: 93px;
+}
+.search {
+    font-size: 20px;
+    color: white;
+    margin-left: 5px;
+}
+.loremjon {
+  color: grey;
+}
+.learn {
+    width: 200px;
+    height: 56px;
+    background-color: white;
+    color: blue;
+    border-radius: 50px;
+    margin: 0 auto;
+    margin: 30px auto;
+}
+.buttla {
+    display: flex;
+    justify-content: center;
+}
+.info {
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+.images {
+ display: flex;
+ gap: 100px;
+    margin-top: 50px;
+    align-items: center;
+}
+.imgjon {
+    width: 520px;
+    height: 370px;
+    margin-left: 180px ;
+    display: flex;
+    gap: 100px;
+    margin-top: 50px;
+    align-items: center;
+}
+.div {
+   display: flex;
+   flex-direction: column;
+   margin-left: 30px;
+   margin-right: 180px;
+   gap: 20px;
+   flex-wrap: wrap;
+}
+.leading {
+   color: black;
+   font-size: 30px;
+
+}
+.care {
+    color: black;
+    font-size: 30px;
+ 
+}
+.trafalgar {
+    color: gray;
+}
+.chek{
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.imhlar {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.imh {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+  height: 504px;
+  flex-wrap: wrap;
+}
+.imhh {
+    width: 380px;
+    height: 240px;
+}
+.di {
+ color: black;
+ font-size: 20px;
+ margin-top: 10px;
+}
+.case {
+  color: gray;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 15px;
+}
+.read {
+   color: blue;
+   font-size: 20px;
+}
+.view {
+    display: flex;
+    justify-content: center;
+}
+.banan {
+    width: 1600px;
+    height: 432px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+.trafal {
+    
+}
+.lor {
+   
+}
+ul li {
+    text-decoration: none;
+}
+ul {
+    display: flex;
+    flex-direction: column;
+}
+p {
+    color: white;
+}
+.more {
+    color: blue;
+}
